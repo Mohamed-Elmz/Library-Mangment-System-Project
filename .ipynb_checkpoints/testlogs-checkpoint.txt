@@ -1,0 +1,6 @@
+B#1#Adam#Intro to python#5
+B#2#Momo#Intro to python#5
+R#6#Adam#Intro to python
+A#6#Intro to python
+R#7#Momo#Intro to python
+10
